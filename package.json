@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "element-ui": "^2.15.9",
+    "vue-router": "^3.5.4"
+  },
+  "devDependencies": {
+    "babel-plugin-component": "^1.1.1"
+  }
+}
